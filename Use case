@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T06:12:45.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jCBBeQz5WmDlf1ZSBCk7" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T06:13:41.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="T-W3TXqOPlT53VEX3rq_" version="24.4.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1908" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4770" dy="3200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -649,20 +649,6 @@
         </mxCell>
         <mxCell id="CosX1wPAlo5xdP5_-1hp-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="CosX1wPAlo5xdP5_-1hp-313" source="CosX1wPAlo5xdP5_-1hp-457" target="CosX1wPAlo5xdP5_-1hp-450" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CosX1wPAlo5xdP5_-1hp-319" value="Мои документы" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f457af;strokeColor=#f457af;fontSize=8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="7520" y="1630" width="1350" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="CosX1wPAlo5xdP5_-1hp-320" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CosX1wPAlo5xdP5_-1hp-319" source="CosX1wPAlo5xdP5_-1hp-321" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="145" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CosX1wPAlo5xdP5_-1hp-321" value="Мои документы" style="ellipse;whiteSpace=wrap;html=1;fontSize=6;" parent="CosX1wPAlo5xdP5_-1hp-319" vertex="1">
-          <mxGeometry x="60" y="125" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CosX1wPAlo5xdP5_-1hp-322" value="добавлять папки,&lt;br&gt;структурировать сохраненные документы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="7640" y="1753" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CosX1wPAlo5xdP5_-1hp-323" value="Сценарий сброса пароля" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FFF2CC;fontSize=12;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="2078" y="390" width="1562" height="360" as="geometry" />
